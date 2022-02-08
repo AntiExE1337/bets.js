@@ -1,0 +1,2 @@
+# bets.js
+Bets.js
